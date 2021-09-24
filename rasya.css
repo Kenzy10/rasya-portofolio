@@ -108,7 +108,8 @@ border: var(--border);
      width: 20%;
      height: auto;
      margin: 100px 100px 100px 505px;
-
+     line-height: auto;
+ 
  }
  #aulia{
     width: 25%;
